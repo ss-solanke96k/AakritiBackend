@@ -1,0 +1,6 @@
+{
+  "name": "Akriti Marketplace",
+  "description": "An elegant handcrafted and customizable product marketplace for beautiful, custom-made resin art, teddy bears, tote bags, and trays.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
